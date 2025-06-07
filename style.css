@@ -1,11 +1,9 @@
-body{
+
+*body {
+    text-align: center;
+    width: 0%;
+    height: 5px;
+    color: pink;
     background-color: antiquewhite;
-    text-align: center;
-    color: aqua;
-        background-color: aqua;
-        color: black;
-    }
-h1{
-    text-align: center;
-    color: blue;
-}
+   }
+   
